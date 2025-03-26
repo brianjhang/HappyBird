@@ -1,4 +1,4 @@
-# 快樂小鳥 (Happy Bird)
+# 快樂小鳥 (Happy Bird) 0.1 Ver
 
 一個簡單而有趣的 HTML5 休閒遊戲，靈感來自經典的 Flappy Bird，但加入了更多趣味元素和友好的遊戲體驗。
 
