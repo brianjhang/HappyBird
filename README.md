@@ -48,6 +48,7 @@
 1. 下載或克隆代碼庫
 2. 在瀏覽器中打開 `index.html` 文件
 3. 點擊「開始遊戲」按鈕開始遊玩
+4. 可以直接在線上玩 https://brianjhang.github.io/HappyBird/
 
 ## 技術實現
 
